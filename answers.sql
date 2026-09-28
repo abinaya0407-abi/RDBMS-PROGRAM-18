@@ -1,5 +1,4 @@
 SET SERVEROUTPUT ON;
-
 CREATE TABLE Student (
     StudentID NUMBER(5) PRIMARY KEY,
     StudentName VARCHAR2(50),
